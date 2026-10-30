@@ -1,0 +1,12 @@
+# User-specific settings
+azkar.ini
+
+# Build outputs
+AzkarNotifier.exe
+app_res.o
+*.obj
+*.o
+
+# Optional locally installed fonts; verify licenses before distribution
+fonts/*.ttf
+fonts/*.otf
