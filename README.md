@@ -10,6 +10,20 @@
 - خيار التشغيل مع بدء Windows.
 - حفظ الإعدادات في `azkar.ini` بجوار البرنامج؛ لا يتضمن هذا المستودع ملف إعدادات المستخدم.
 
+## لقطات شاشة
+
+أُضيفت الصور إلى [`docs/screenshots`](docs/screenshots/):
+
+![لقطة شاشة 1](docs/screenshots/screenshot-01.png)
+
+![لقطة شاشة 2](docs/screenshots/screenshot-02.png)
+
+![لقطة شاشة 3](docs/screenshots/screenshot-03.png)
+
+![لقطة شاشة 4](docs/screenshots/screenshot-04.png)
+
+![لقطة شاشة 5](docs/screenshots/screenshot-05.png)
+
 ## التشغيل
 
 لا يتضمن المستودع ملفًا تنفيذيًا جاهزًا. ابنِ البرنامج من المصدر وفق التعليمات أدناه، ثم شغّل `AzkarNotifier.exe` على Windows. ينشئ التطبيق ملف `azkar.ini` بجوار الملف التنفيذي عند التشغيل الأول.
